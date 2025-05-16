@@ -1,6 +1,6 @@
 # Hospital-Data-Analysis
 
-Here’s a **GitHub description** you can use for uploading your SQL project based on the "Hospital Data Analysis" PDF you shared:  
+ 
 
 ---
 
