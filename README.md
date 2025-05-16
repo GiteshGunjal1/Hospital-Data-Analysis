@@ -1,6 +1,7 @@
 # Hospital-Data-Analysis
 
- 
+![image](https://github.com/user-attachments/assets/cc5101af-dfa0-440c-8229-14c303a5fe6f)
+
 
 ---
 
